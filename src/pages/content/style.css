@@ -74,6 +74,7 @@
   border: none;
   color: white;
   text-align: center;
+  cursor: pointer;
 }
 #btnoturum:hover {
   background-color: #7325a3;
